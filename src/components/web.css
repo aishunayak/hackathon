@@ -1,0 +1,33 @@
+.headline{
+    color:#1D5D9B;
+    font-size: 30px;
+    margin-right: 90px;
+}
+.screen{
+    margin-top: 70px;
+    display:flex;
+    background-color: #1D5D9B;
+    position: relative;
+    }
+
+.mario{
+        width: 400px;
+      height: 300px;
+      border: .5px solid black;
+      border-radius:20px;
+      overflow: hidden;
+      margin-left: 80px;
+      margin-top: 200px;
+      margin-bottom: 100px;
+     }
+.text{
+        width: 580px;
+        height: 280px;
+        border: 0.5px solid black;
+        padding: 10px;
+        margin-left: 80px;
+        border-radius: 20px;
+        margin-top: 200px;
+        margin-bottom: 100px;
+     }
+            
